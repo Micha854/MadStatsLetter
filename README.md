@@ -26,3 +26,5 @@ the heart of the script is the config json with the following structure. here's 
 ## Notes
 
 Limits on Telegram Channels are 30 Messages per second and for Groups 20 messages per minute
+
+![example](https://raw.githubusercontent.com/Micha854/MadStatsLetter/master/example.jpg)
